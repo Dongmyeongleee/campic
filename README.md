@@ -136,7 +136,7 @@
 
 <br />
 
-![](https://velog.velcdn.com/images/jmlee9707/post/1f4c67e2-aec8-45eb-b1e1-30580ff96ff7/image.gif)
+<img src="./imgasset/캠픽메인.gif">
 
 - 캠픽 서비스 소개 페이지
 - 현재 위치에 따른 날씨 정보 받기
